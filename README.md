@@ -4,4 +4,3 @@
 - And that
 - And the other
 
-Deployed with Netlify!

@@ -3,7 +3,8 @@
 }
 
 #shape {
-  background-color: orange;
+  background-color: #800080;
+  border-radius: 50%;
   height: 300px;
   width: 300px;
 }
